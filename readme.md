@@ -20,7 +20,7 @@ The available images are split into two separate dataset, included in the “[ca
 	  └─ carbon-multiclass 
 	      ├─ negative (500 .jpg images)
 	      ├─ non_recoverable_defects (500 .jpg images)
-		  └─ recoverable_defects (500 .jpg images)
+	      └─ recoverable_defects (500 .jpg images)
 
 The carbon-binary directory includes a dataset usable for binary classification. It has two subdirectories “negative” and “positive”, labeling the included images:
 -  “[negative](carbon-binary/negative/)” includes 200 images with no defects or limited recoverable porosities;
