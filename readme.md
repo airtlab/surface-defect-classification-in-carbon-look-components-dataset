@@ -2,7 +2,9 @@
 
 This repository contains the data used for the experiments presented in the paper
 
->A. Silenzi, S. Tomassini, N. Falcionelli, P. Contardo, A.F. Dragoni, P. Sernani, *Surface Defect Detection in Composite Materials Using Deep Neural Networks*.
+>A. Silenzi, S. Tomassini, N. Falcionelli, P. Contardo, A. Bonci, A.F. Dragoni, P. Sernani, *Surface Defect Classification in Carbon Look Components Using Deep Neural Networks*.
+
+The paper is currently under review for the publication in the [Computers and Industrial Engineering](https://www.journals.elsevier.com/computers-and-industrial-engineering) journal.
 
 The repository is composed of plain images of carbon look components sued to compare end-to-end models based on Convolutional Neural Networks for the classification of surface defects. The images included in this data repository are taken from real production of [Hp Composites Spa](https://www.hpcomposites.it/), a company located in Ascoli Piceno, Italy, and specialized in the production of composite materials components.
 
