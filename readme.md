@@ -2,9 +2,9 @@
 
 This repository contains the data used for the experiments presented in the paper
 
->A. Silenzi, S. Tomassini, N. Falcionelli, P. Contardo, A. Bonci, A.F. Dragoni, P. Sernani, *Quality Control of Carbon Look Components via Surface Defect Classification with Deep Neural Networks*.
+>Silenzi, A.; Castorani, V.; Tomassini, S.; Falcionelli, N.; Contardo, P.; Bonci, A.; Dragoni, A.F.; Sernani, P. Quality Control of Carbon Look Components via Surface Defect Classification with Deep Neural Networks. *Sensors*. 2023; 23(17):7607. <https://doi.org/10.3390/s23177607> 
 
-The paper is currently under review for the publication in the [Sensors MDPI journal](https://www.mdpi.com/journal/sensors).
+The paper is published in the special issue [Artificial Intelligence in Imaging Sensing and Processing]() of the [Sensors MDPI journal](https://www.mdpi.com/journal/sensors). The paper is open access and available here: https://www.mdpi.com/1424-8220/23/17/7607
 
 The repository is composed of plain images of carbon look components sued to compare end-to-end models based on Convolutional Neural Networks for the classification of surface defects. The images included in this data repository are taken from real production of [Hp Composites Spa](https://www.hpcomposites.it/), a company located in Ascoli Piceno, Italy, and specialized in the production of composite materials components.
 
@@ -38,3 +38,21 @@ The images are 224 x 224 pixels (96 ppi) in JPEG format. The images were origina
 ## Dataset Release Agreement
 
 The dataset is freely released for research and educational purposes.
+
+Please cite as
+- Silenzi, A.; Castorani, V.; Tomassini, S.; Falcionelli, N.; Contardo, P.; Bonci, A.; Dragoni, A.F.; Sernani, P. Quality Control of Carbon Look Components via Surface Defect Classification with Deep Neural Networks. *Sensors*. 2023; 23(17):7607. <https://doi.org/10.3390/s23177607>
+ 
+Bibtex entry:
+
+	 @article{Silenzi2023,
+	   author = {Silenzi, Andrea and Castorani, Vincenzo and Tomassini, Selene and Falcionelli, Nicola and Contardo, Paolo and Bonci, Andrea and Dragoni, Aldo Franco and Sernani, Paolo},
+	   title = {Quality Control of Carbon Look Components via Surface Defect Classification with Deep Neural Networks},
+	   journal = {Sensors},
+	   volume = {23},
+	   year = {2023},
+	   number = {17},
+	   article-number = {7607},
+	   doi = {10.3390/s23177607}
+	 }
+
+The paper is open access and available here: <https://www.mdpi.com/1424-8220/23/17/7607>
