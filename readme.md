@@ -4,7 +4,7 @@ This repository contains the data used for the experiments presented in the pape
 
 >Silenzi, A.; Castorani, V.; Tomassini, S.; Falcionelli, N.; Contardo, P.; Bonci, A.; Dragoni, A.F.; Sernani, P. Quality Control of Carbon Look Components via Surface Defect Classification with Deep Neural Networks. *Sensors*. 2023; 23(17):7607. <https://doi.org/10.3390/s23177607> 
 
-The paper is published in the special issue [Artificial Intelligence in Imaging Sensing and Processing]() of the [Sensors MDPI journal](https://www.mdpi.com/journal/sensors). The paper is open access and available here: https://www.mdpi.com/1424-8220/23/17/7607
+The paper is published in the special issue [Artificial Intelligence in Imaging Sensing and Processing](https://www.mdpi.com/journal/sensors/special_issues/JS98B8S2W8) of the [Sensors MDPI journal](https://www.mdpi.com/journal/sensors). The paper is open access and available here: https://www.mdpi.com/1424-8220/23/17/7607
 
 The repository is composed of plain images of carbon look components sued to compare end-to-end models based on Convolutional Neural Networks for the classification of surface defects. The images included in this data repository are taken from real production of [Hp Composites Spa](https://www.hpcomposites.it/), a company located in Ascoli Piceno, Italy, and specialized in the production of composite materials components.
 
